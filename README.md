@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning javascript and python.
 - ⚡ Fun fact: I'm self-taught musician!!!(🎸 - 🎹)
 
+##
+
 <div align="center">
   <a href="https://github.com/julioc7r">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julioc7r&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
